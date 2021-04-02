@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1884870970
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs/cube.ab
+      Dependencies:
+        Dependency_0: materials/black.ab
+    Info_1:
+      Name: materials/black.ab
+      Dependencies: {}
+    Info_2:
+      Name: test.net
+      Dependencies: {}
